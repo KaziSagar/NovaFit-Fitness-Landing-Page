@@ -23,7 +23,7 @@ export const Hero: React.FC = () => {
           <h1 className="text-5xl md:text-7xl font-extrabold leading-[1.1] mb-6 italic">
             TRANSFORM <br />
             YOUR BODY <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-lime to-green-400">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-lime to-green-400 pr-2">
               IN JUST 7 DAYS
             </span>
           </h1>
